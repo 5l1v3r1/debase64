@@ -9,8 +9,8 @@
   </tr>
   <tr>
     <td class="main">
-      git clone https://github.com/VirusBaghdad/debase64 <br/>
-      OR direct link: https://github.com/VirusBaghdad/debase64
+      git clone https://github.com/VirusBaghdad/debase64.git <br/>
+      OR direct link: https://github.com/VirusBaghdad/debase64.git
     </td>
   </tr>
 </table>
