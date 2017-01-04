@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1 align="center">debase64</h1>
- <p> Tool Decryption And encryption Base64 </p>
+ <p> Tool encryption Base64 </p>
 
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
@@ -42,21 +42,6 @@
 </table>
 
 
-<table border="0" cellpadding="2" cellspacing="5" width="100%">
-  <tr>
-    <td class="main3"><b>Screenshots:</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="890px">
-    <img src="https://upimg.de/img/11_33rczg.jpg" /> <br/><br/>
-    <img src="https://upimg.de/img/2_suxkdx.jpg" /> <br/><br/>
-    <img src="https://upimg.de/img/4_e09h4t.jpg" /> <br/><br/>
-    <img src="https://upimg.de/img/5_l4vcd9.jpg" /> <br/><br/>
-    <img src="https://upimg.de/img/6_d2nb8f.jpg" /> <br/><br/>
-    <img src="https://upimg.de/img/8_jx5k4b.jpg" /> <br/><br/>
-    </td>
-  </tr>
-</table>
 
 </body>
 
