@@ -16,7 +16,7 @@ print colored ('''
 : www.facebook.com/virus.baghdad.0
 ''', 'red')
 
-y= input("hash:")
+y=raw_input("hash:")
 
 M=base64.b64encode(y)
 N=base64.b64decode(y)
