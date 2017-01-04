@@ -21,8 +21,8 @@
   <tr>
     <td class="main">
       cd debase64 <br/>
-      chmod +x debase64.py <br/>
-      pyhton debase64.py
+      chmod +x debase64.py<br/>
+      pyhton debase64.py<br/>
     </td>
   </tr>
 </table>
