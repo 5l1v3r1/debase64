@@ -1,12 +1,15 @@
+
+
 #!usr/bin/python
 #By virus baghdad
-#For Encode And Decode Base64
+#For Encode  Base64
 
 
 
 
 from termcolor import colored
 import base64
+import time
 print colored ('''
         +=======================================+
         |................Base64.................|
@@ -16,25 +19,19 @@ print colored ('''
 : www.facebook.com/virus.baghdad.0
 ''', 'red')
 
-y=raw_input("hash:")
+y=raw_input("press input the hash:")
 
-M=base64.b64encode(y)
+
 N=base64.b64decode(y)
-x=input('''
-1- to encrypt texts
-2- to decrypt 
->>>>: ''')
-if x == 1:
- print ("Encryption:" + (M) )
-elif x == 2:
- print ("Successfully decryption: " + (N) )
+print("please wait......")
+time.sleep (5)
+print ("Successfully decryption:\n"+(N))
+
 print  colored ('''
            +========================================+
            |   Thank you can follow us on Facebook  |
            +========================================|
            |https://www.facebook.com/virus.baghdad.0|
            +========================================+
-press enter for exit:''', 'red')
+please Enter for Exit:''', 'red')
 raw_input(":")
-
-
